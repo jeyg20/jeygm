@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+Disallow: /private/
+Disallow: /scripts/
+
+Sitemap: https://jeygm.xyz/sitemap.xml
